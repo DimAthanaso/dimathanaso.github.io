@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. Astrophysics**, National and Kapodistrian University of Athens, 2025  
+Thesis: *Rotational state of main belt asteroids that belong to old collisional families*  
+Supervisors: Kosmas Gazeas, Marco Delbo (OCA), Chrysa Avdellidou (Leicester University)
+
+* **M.Sc. Physics (Astrophysics specialization)**, National and Kapodistrian University of Athens, 2020  
+Thesis: *Photometric investigation of primordial asteroids*
+
+* **B.Sc. Physics**, National and Kapodistrian University of Athens, 2018  
+Thesis: *Lunar Colony design via FLUKA Simulations for Radiation Shielding*
 
 Work experience
 ======
