@@ -12,4 +12,4 @@ redirect_from:
 I work as a support astronomer at the **National Observatory of Athens** and lead collaborative research across Europe and the U.S. on asteroid dynamics and planetary system evolution.
 
 📌 See my [Projects](/projects/), [CV](/cv/), or [Publications](/publications/).  
-📧 [Email me](mailto:dimathanaso@noa.gr) or connect on [LinkedIn](https://linkedin.com/in/dimitrios-athanasopoulos).
+📧 [Email me](mailto:dimathanaso@noa.gr).
