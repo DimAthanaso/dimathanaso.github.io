@@ -9,7 +9,9 @@ redirect_from:
 
 👋 Hello! I'm **Dimitrios Athanasopoulos**, Ph.D., a planetary scientist focused on the physical characterisation and spin-state evolution of ancient asteroid families.
 
-I work as a support astronomer at the **National Observatory of Athens**.
+I work as an observer at the **National Observatory of Athens**.
 
-📌 See my [Projects](/projects/), [CV](/cv/), or [Publications](/publications/).  
-📧 [Email me](mailto:dimathanaso@noa.gr).
+The website is under construction.
+
+#📌 See my [Projects](/projects/), [CV](/cv/), or [Publications](/publications/).  
+#📧 [Email me](mailto:dimathanaso@noa.gr).
